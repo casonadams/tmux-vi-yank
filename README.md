@@ -38,7 +38,8 @@ run -b '~/.tmux/plugins/tpm/tpm'
 |`ctrl+b enter`|Enter copy mode|
 |`v`|vi visual selection mode|
 |`shift + v`| vi line copy mode|
-|`y` `enter`|Copy selected text to clipboard|
+|`y`|Copy selected text to clipboard|
+|`enter`|Copy selected text to clipboard|
 
 # Special Thanks to
 https://github.com/gpakosz/.tmux
